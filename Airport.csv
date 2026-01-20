@@ -1,0 +1,6 @@
+Airport_ID,Airport Name,State,Airport_type,Region,IATA_Code,Runway_count,Ratings,Ownership,AnnualCap_Millions
+AP01,Chennai International Airport,Tamil Nadu,International,South,MAA,2,4.5,AAI,35
+AP02,Coimbatore International Airport,Tamil Nadu,International,South,CJB,1,4,AAI,25
+AP03,Delhi Indira Gandhi International Airport,Delhi,International,North,DEL,3,4.8,AAI,70
+AP04,Madurai Airport,Tamil Nadu,Domestic,South,IXM,1,3.8,AAI,8
+AP05,Bengaluru Kempegowda International Airport,Karnataka,International,South,BLR,2,4.6,Private,40
